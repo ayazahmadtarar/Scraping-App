@@ -1,0 +1,2 @@
+MainPackage=E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Upload\Channel app_1.1.2.0_x86.appx
+SymbolPackage=E:\Scrapper app\Channel app\Channel app\AppPackages\Channel app_1.1.2.0\Channel app_1.1.2.0_x86.appxsym

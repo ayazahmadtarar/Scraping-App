@@ -1,0 +1,17 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\split.pri"			"resources.pri"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\ClrCompression.dll"			"ClrCompression.dll"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Channel app.exe"			"Channel app.exe"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Channel app.dll"			"Channel app.dll"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-200.png"			"Assets\StoreLogo.scale-200.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"E:\Scrapper app\Channel app\Channel app\obj\x86\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

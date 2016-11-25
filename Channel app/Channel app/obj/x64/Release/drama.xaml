@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Channel_app.drama"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Channel_app"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Frame x:ConnectionId='1' Name="myframe">
+        <GridView x:ConnectionId='2' x:Name="dramalist" IsItemClickEnabled="True"                                               >
+            <GridView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="20,20,20,20">
+                        <Image Source="{Binding daramaImage}"  Width="150"></Image>
+                        <!--<TextBlock Text="{Binding dramaLink}"></TextBlock>-->
+                    </StackPanel>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+        </Frame>
+    </Grid>
+</Page>
+

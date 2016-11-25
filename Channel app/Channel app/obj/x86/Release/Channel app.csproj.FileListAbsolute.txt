@@ -1,0 +1,405 @@
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\App.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\drama.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Episodes.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\HomePage.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\MainPage.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Videopage.xbf
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Channel app.xr.xml
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Channel app.exe
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\resources.pri
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\AppxManifest.xml
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Adapters.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\AssemblyInfo.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Channel app.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Channel app.exe
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Channel app.ITFProxy.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Channel app.xr.xml
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\ClrCompression.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Data.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Helpers.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\ImplTypes.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\PInvoke.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\resources.pri
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\SafeTypes.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\SharedStubs.g.cs
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Channel app.build.appxrecipe
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Upload\Channel app.build.appxrecipe
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.ApplicationInsights.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.CSharp.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\mscorlib.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Core.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Numerics.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Serialization.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.Web.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Windows.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.Linq.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.Serialization.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.VisualBasic.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Microsoft.Win32.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\Newtonsoft.Json.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.AppContext.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Collections.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Collections.Concurrent.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Collections.Immutable.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Collections.NonGeneric.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Collections.Specialized.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ComponentModel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ComponentModel.Annotations.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Data.Common.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Diagnostics.Contracts.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Diagnostics.Debug.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Diagnostics.StackTrace.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Diagnostics.Tools.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Diagnostics.Tracing.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Dynamic.Runtime.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Globalization.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Globalization.Calendars.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Globalization.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.Compression.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ClrCompression.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.Compression.ZipFile.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.FileSystem.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.IsolatedStorage.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Linq.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Linq.Expressions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Linq.Parallel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Linq.Queryable.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.Http.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.Http.Rtc.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.NetworkInformation.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.Requests.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.Sockets.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Net.WebHeaderCollection.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Numerics.Vectors.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ObjectModel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Private.DataContractSerialization.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Private.Networking.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Private.ServiceModel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Private.Uri.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Context.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.DispatchProxy.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Emit.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Metadata.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Reflection.TypeExtensions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Resources.ResourceManager.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Handles.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.InteropServices.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Numerics.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Serialization.Json.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Security.Claims.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Security.Principal.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.Duplex.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.Http.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.NetTcp.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.ServiceModel.Security.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Text.Encoding.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Text.Encoding.CodePages.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Text.Encoding.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Text.RegularExpressions.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.Overlapped.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.Tasks.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Threading.Timer.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.ReaderWriter.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.XDocument.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.XmlDocument.dll
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\System.Xml.XmlSerializer.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\App.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\App.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\drama.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\drama.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Episodes.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Episodes.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\HomePage.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\HomePage.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\MainPage.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\MainPage.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Videopage.g.i.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Videopage.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\XamlTypeInfo.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\App.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\drama.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Episodes.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\HomePage.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\MainPage.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Videopage.xaml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\App.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\drama.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Episodes.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\HomePage.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\MainPage.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Videopage.xbf
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\XamlSaveStateFile.xml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Channel app.exe
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ResourceHandlingTask.state
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Channel app.csproj.GenerateResource.Cache
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\priconfig.xml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\priconfig.xml.intermediate
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\layout.resfiles
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\layout.resfiles.intermediate
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\resources.resfiles
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\resources.resfiles.intermediate
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\pri.resfiles
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\pri.resfiles.intermediate
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\qualifiers.txt
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\qualifiers.txt.intermediate
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ProjectArchitectures.txt
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Channel app.exe
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.ApplicationInsights.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\mscorlib.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Core.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Numerics.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Windows.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Newtonsoft.Json.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.AppContext.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Collections.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ComponentModel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Data.Common.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Globalization.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.Compression.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\ClrCompression.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Linq.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.Http.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.Requests.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ObjectModel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Private.Networking.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Private.Uri.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Security.Claims.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Security.Principal.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-100.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Channel app.xr.xml
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\resources.pri
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc.Channel app.rsp
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop.pdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\Adapters.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\AssemblyInfo.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\Data.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\Helpers.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\ImplTypes.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\PInvoke.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\SafeTypes.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.Interop\SharedStubs.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Channel app.ITFProxy.g.cs
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.closure.csv
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.csv
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.forwarders.csv
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.ilexe
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.ilexe.ILTransformTask.repro
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.Interop.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.Interop.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.metadata
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.reflectionlog.csv
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Channel app.res
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.Extensibility.Windows.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.ApplicationInsights.PersistenceChannel.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CSharp.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\Newtonsoft.Json.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Console.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Console.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.Compression.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Xml.ReaderWriter.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\ILTransformed\System.Xml.XDocument.ildll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\MDIL\Channel app.mdilexe
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\MDIL\Channel app.mdilpdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\MDIL\Channel app.rsp
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Native.res
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\Native\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\.ILTransformTask.repro
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Channel app.exe
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Channel app.pdb
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Newtonsoft.Json.dll
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\rhbindargs.Channel app.rsp
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\intermediate\sgargs.rsp
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png
+E:\Scrapper app\Channel app\Channel app\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\Channel app.csprojResolveAssemblyReference.cache
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-125.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-150.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-400.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-100.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-125.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-150.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-200.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-400.png
+E:\Scrapper app\Channel app\Channel app\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-100.png

@@ -1,0 +1,6 @@
+MainPackage=E:\Scrapper app\Channel app\Channel app\bin\ARM\Release\Upload\Channel app_1.1.2.0_ARM.appx
+SymbolPackage=E:\Scrapper app\Channel app\Channel app\AppPackages\Channel app_1.1.2.0\Channel app_1.1.2.0_ARM.appxsym
+ResourcePack=E:\Scrapper app\Channel app\Channel app\_scale-100.appx
+ResourcePack=E:\Scrapper app\Channel app\Channel app\_scale-125.appx
+ResourcePack=E:\Scrapper app\Channel app\Channel app\_scale-150.appx
+ResourcePack=E:\Scrapper app\Channel app\Channel app\_scale-400.appx

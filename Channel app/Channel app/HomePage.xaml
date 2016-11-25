@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="Channel_app.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Channel_app"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid >
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF30181F"/>
+                <GradientStop Color="#FF625FB2" Offset="0.044"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <TextBlock Tapped="TextBlock_Tapped"  FontFamily="Segoe MDL2 Assets" FontSize="40" Text="&#xE80f;" Foreground="#FFF3EFEF"></TextBlock>
+            <Button Name="backbutton"                    
+                    FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE0C4; " 
+                    FontSize="36" 
+                    Click="backbutton_Click" Background="#33D1BBBB"
+                    >
+
+            </Button>
+        </StackPanel>
+
+
+
+
+        <Frame x:Name="myframe" Grid.Row="1">
+
+        </Frame>
+    </Grid>
+
+</Page>
